@@ -20,7 +20,7 @@ This is a simple Java GUI application built using AWT. The program allows users 
 ## How to Run
 
 1. Clone the repository:
-   git clone [https://github.com/lalithsai-gif/Simple-Color-Game.git](https://github.com/your-username/color-game-java.git)
+   git clone [https://github.com/lalithsai-gif/Simple-Color-Game.git](https://github.com/lalithsai-gif/Simple-Color-Game.git)
    cd color-game-java
 
 2. Compile the program:
